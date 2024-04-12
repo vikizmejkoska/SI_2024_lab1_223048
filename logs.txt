@@ -1,0 +1,35 @@
+commit 3efeb41495274f99cb03ccde829d2310b378e6f0 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: vikizmejkoska <viktorija.zmejkoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:30:54 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 520a2ced93948743969c905bc755851da4bf3fb1
+Author: vikizmejkoska <viktorija.zmejkoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:22:06 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 30d2cbe73b331c8ab851d5804a8c2beaaba410ce (origin/bug1, bug1)
+Author: vikizmejkoska <viktorija.zmejkoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:26:17 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit c05648a7f8ecc0e6aa22c5aa3863bdbb1b77c43c
+Author: vikizmejkoska <viktorija.zmejkoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:18:37 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 9e57892c368a4887550ba6966563e4d81677d3d0
+Author: vikizmejkoska <viktorija.zmejkoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:08:30 2024 +0200
+
+    Add starter code
+
+commit ee593c8df1a9c5f94355f8ae3a5c2c5dfb30d2cd
+Author: vikizmejkoska <viktorija.zmejkoska@students.finki.ukim.mk>
+Date:   Fri Apr 12 20:01:37 2024 +0200
+
+    Initial commit
